@@ -51,8 +51,8 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- [x] get random greeting message
 
+- [x] get random greeting message
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,18 +79,16 @@ Clone this repository to your desired folder:
 - [ ] Open terminal
 - [ ] git clone https://github.com/BB-Simon/hello-rails-react.git
 - [ ] cd budget-app
-  
 
 ### Install
 
 Install this project with:
 
- - [ ] bundle install
+- [ ] bundle install
 
 Install this project client with:
 
- - [ ] yarn install
-
+- [ ] yarn install
 
 ### Run the project
 
@@ -104,14 +102,13 @@ To run the webpack to build the client, run the following command:
 
 <!-- AUTHORS -->
 
-## 👤 Author <a name="authors"></a>
+## Author
 
-👤 **BB Simon**
+👤 **Kelvin kaviku**
 
-- GitHub: [@githubhandle](https://github.com/BB-Simon) 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bb-simon/)
-- Twitter: [@twitterhandle](https://twitter.com/bb_s_imon) 
-
+- GitHub: [@brainskev](https://github.com/brainskev/)
+- Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
+- LinkedIn: [kelvin](https://www.linkedin.com/in/kelvinkaviku/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,8 +126,7 @@ To run the webpack to build the client, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BB-Simon/hello-rails-react.git/issues).
-
+Feel free to check the [issues page](https://github.com/brainskev/hello-rails-react/issues).
 
 <!-- SUPPORT -->
 
@@ -138,13 +134,11 @@ Feel free to check the [issues page](https://github.com/BB-Simon/hello-rails-rea
 
 - Give a ⭐️ if you like this project!
 
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
--  I would like to thank [Microverse](https://www.microverse.org/) for giving us this opportunity to learn and grow as a developer by providing me with Hello rails-react App idea with it's wireframes.
-
+- I would like to thank [Microverse](https://www.microverse.org/) for giving us this opportunity to learn and grow as a developer by providing me with Hello rails-react App idea with it's wireframes.
 
 <!-- LICENSE -->
 
